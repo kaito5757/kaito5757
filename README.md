@@ -6,8 +6,9 @@
 
 #### ⚡️ Status
 <p>
-  <img alt="status" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaito5757&layout=compact" />
-  <img alt="status" height="170" src="https://github-readme-stats.vercel.app/api?username=kaito5757&show_icons=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaito5757&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaito5757&theme=transparent" />
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaito5757&theme=transparent" />
-
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaito5757&theme=transparent" />
+</p>
