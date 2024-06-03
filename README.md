@@ -9,5 +9,5 @@
   <img alt="status" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaito5757&layout=compact" />
   <img alt="status" height="170" src="https://github-readme-stats.vercel.app/api?username=kaito5757&show_icons=true" />
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaito5757&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaito5757&theme=transparent" />
 
