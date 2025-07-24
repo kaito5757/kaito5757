@@ -1,11 +1,8 @@
-#### 🏆 Trophy
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=kaito5757" />
+<!-- 🌟 GitHub Stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaito5757&show_icons=true&count_private=true)
 
-#### ⚡️ Status
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaito5757&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaito5757&theme=default&utcOffset=+9.00" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaito5757&theme=default" />
-</p>
+<!-- 🔥 コミット Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaito5757&theme=default)](https://git.io/streak-stats)
+
+<!-- 🧩 Metrics（要GitHub Actions）-->
+![Metrics](https://raw.githubusercontent.com/kaito5757/kaito5757/main/github-metrics.svg)
