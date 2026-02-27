@@ -1,5 +1,5 @@
 #### 🏆 Trophy
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=kaito5757" />
+<img alt="trophy" src="https://gh-trophy.cdnsoft.net/?username=kaito5757&theme=light" />
 
 #### ⚡️ Status
 <p>
